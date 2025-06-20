@@ -18,7 +18,7 @@ public class Branching {
 
         System.out.println();
         System.out.println("----------------------------------------------------");
-        System.out.println("This is Traditional For Loop / fori loop with break");
+        System.out.println("This is Traditional For Loop / for i loop with break");
 
         for (int i = 1; i <= 10 ; i++) {
             System.out.print(i + " ");

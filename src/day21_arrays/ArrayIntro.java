@@ -7,7 +7,7 @@ public class ArrayIntro {
         String str1 = "Virginia";
         //             01234567
         char letter1 = str1.charAt(0);
-        char letter2 =  str1.charAt(1);
+        char letter2 = str1.charAt(1);
         char letter3 = str1.charAt(2);
         char letter4 = str1.charAt(3);
         char letter5 = str1.charAt(4);

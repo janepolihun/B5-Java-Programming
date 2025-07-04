@@ -1,6 +1,6 @@
 package day25_methods;
 
-import my_util.ArrUtil;
+import my_util.ArrayUtil;
 
 
 import java.util.Arrays;
@@ -26,8 +26,8 @@ public class MinAndMaxNum {
 
 
         System.out.println("--------------");
-        System.out.println(ArrUtil.maxNumInArray(numbers));
-        System.out.println(ArrUtil.minNumInArray(numbers));
+        System.out.println(ArrayUtil.maxNumInArray(numbers));
+        System.out.println(ArrayUtil.minNumInArray(numbers));
 
     }
 }

@@ -28,7 +28,6 @@ public class StringUtil {
         }
         return fullName.trim();
     }
-
     /**
      * This metho counts the letter appearance in word
      * @param word is the String
